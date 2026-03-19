@@ -29,6 +29,7 @@ A curated list of awesome scientific Python resources.
     * [Domain-specific libraries](#domain-specific-libraries)
         * [Geospatial data](#geospatial-data)
         * [Astrophysics](#astrophysics)
+        * [Physics](#physics)
         * [Molecular simulations](#molecular-simulations)
         * [Bioinformatics](#bioinformatics)
         * [Neuroimaging](#neuroimaging)
@@ -184,7 +185,7 @@ A curated list of awesome scientific Python resources.
 
 ### Physics
 
-* [lfm-physics](https://github.com/gpartin/lfm-physics) - Lattice Field Medium physics simulation library with GPU-accelerated solvers and 41+ verified predictions.
+* [lfm-physics](https://github.com/gpartin/lfm-physics) - Lattice Field Medium physics simulation library with GPU-accelerated solvers for coupled wave equations on discrete lattices.
 
 ### Molecular simulations
 
